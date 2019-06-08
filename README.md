@@ -30,7 +30,7 @@ Smart Garbage Monitoring And Segregation is a portable waste segregator system t
 <h6>Clone the repository.</h6>
 
 ```
-https://github.com/ajith-ab/S-BIN.git
+git clone https://github.com/ajith-ab/S-BIN.git
 cd S-BIN
 
 ```
