@@ -13,7 +13,7 @@ Smart Garbage Monitoring And Segregation is a portable waste segregator system t
 <table>
 	<tr>
 		<td>
-			<img src="images/smartbin.PNG">
+			<img src="images/subsystem.png">
 			<h6>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Interacting subsystems</h6>
 		</td>
 		<td>
