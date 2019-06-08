@@ -3,7 +3,10 @@ In today's world, it is important that waste items are treated properly before t
 
 Smart Garbage Monitoring And Segregation is a portable waste segregator system that identifies and separates waste materials into biodegradable and non-biodegradable categories. It uses Machine Learning to identify the type of waste. The entire system is operated using Raspberry Pi 3 developement board. Additional feature of remote monitoring is also implemented. The sys admin can monitor multiple devices and the type of waste processed by them in real-time, using a web application.
 
-<br><br>
+<br>
+
+### Donate
+<a href=""><img height="75" src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png"></a>
 
 ### System
 
