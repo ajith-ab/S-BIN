@@ -59,5 +59,5 @@ The device should takes approx 10 seconds to start up. Place any object on its l
 
 The working video of the system :<br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://youtu.be/qHEOsNMMazU"><img src="images/youtube.png" width="700px"></a>\
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://youtu.be/qHEOsNMMazU"><img src="images/videodemo.PNG" width="700px"></a>\
 
