@@ -6,7 +6,7 @@ Smart Garbage Monitoring And Segregation is a portable waste segregator system t
 <br>
 
 ### Donate
-<a href=""><img height="75" src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png"></a>
+<a href="https://www.paypal.me/ajithab"><img height="75" src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png"></a>
 
 ### System
 
