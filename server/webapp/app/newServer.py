@@ -12,7 +12,7 @@ import datetime
 # s ---> initialised to socket class.
 
 s = socket.socket()         
-port = 60000
+port = 60001
 host = socket.gethostname()
 print(host)               
 print(os.getcwd())

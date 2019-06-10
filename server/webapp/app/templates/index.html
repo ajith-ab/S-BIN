@@ -1,0 +1,59 @@
+
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="container main-body">
+
+	<div class="row">
+		<div class="jumbotron" style="margin-top: 100px;">
+		  <h1 id="hdr">S-BIN: Smart Garbage Monitoring And Segregation</h1>
+
+		</div>
+	</div>
+	<br>
+	<div class="row">
+		<div class="col-md-5">
+			<img src="https://raw.githubusercontent.com/ajith-ab/S-BIN/master/images/smartbin.PNG" width=480px height=400px>
+
+		</div>
+		<div class="col-md-6 col-md-offset-1" id="introduction">
+			<hr>
+			<p>This project provides a solution that can detect, identify and
+			segregate waste items into biodegradable and non-biodegradable
+			categories without any human assistance. The Automatic waste
+			segregator is a centrally partitioned bin. It uses
+			Image Processing to detect an object that is thrown into it's flap.
+			Machine Learning is used to identify the category of the waste
+			item. The waste item is then deposited into its respective
+			compartment by the rotating the flap. </p> 
+			
+		</div>
+			
+	</div>
+	<br>
+	<div class="row">
+		<div class="col-md-6 " id="introduction">
+			<hr>
+			<p>The project uses Machine Learning to identify the waste items. A brief introduction about the Machine Learning technology is provided in the video below.<br><br>
+			The system is monitored in real-time using a web server built using Flask. Navigate to <strong>Dashboard</strong> section to view the operation of the system in real-time.
+			</p>
+			
+		</div>
+		<div class="col-md-6">
+			<hr>
+		         <iframe width="100%" height="250" src="https://www.youtube.com/embed/WwEvbvdquy8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+			
+		</div>
+	</div>
+	<hr>
+	
+</div>
+
+
+
+
+
+{% endblock %}
