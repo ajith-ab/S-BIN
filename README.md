@@ -37,6 +37,7 @@ cd S-BIN
 <h6>Server side Machine Learning.</h6>
 
 ```
+cd server
 python newServer.py
 ```
 
