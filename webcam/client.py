@@ -101,7 +101,7 @@ if __name__ == "__main__" :
                    print("Waste object Was Detected..!")
                    print("taking picture Please Wait...")
                    os.system('fswebcam -r 640X480 -S 15 waste.jpg') # uses Fswebcam to take picture
-                   Ip_addr = "ec2-34-229-112-146.compute-1.amazonaws.com" 
+                   Ip_addr = "" 
                    imageProcessing(Ip_addr)
                    time.sleep(30)
            
